@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4119
+
+Introduction:
+Set colors for vimwiki_html from your current vim color scheme setting.
+
+Usage:
+Open vimwiki index page (VimwikiIndex) and excute command 'VKtheming'.
+Recommend you excute this command in 'vim-gui'.
